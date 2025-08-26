@@ -1,4 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/90236635/232291203-4d6bed99-30e5-4837-96b6-98bbbef053d3.png)
+<img width="1080" height="1080" alt="Blue Illustration with Type World Meteorological Day Instagram Post" src="https://github.com/user-attachments/assets/658ada66-5b10-4663-9cf7-8338438c0f72" />
+
 
 # simple-weather-website
 
@@ -11,4 +12,5 @@
 
 ## Preview
 
-<img src="https://user-images.githubusercontent.com/90236635/178144287-2d0c35f4-0b40-4b2c-bdfe-d874777eb87b.png" width="75%">
+<img width="1920" height="1624" alt="screencapture-varshath-weatherinfo33-netlify-app-2025-08-26-22_45_42" src="https://github.com/user-attachments/assets/2dda3979-125e-4a19-adfa-76e69294defb" />
+
