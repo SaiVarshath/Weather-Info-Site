@@ -1,6 +1,6 @@
 class WeatherApp {
     constructor() {
-        this.API_KEY = '7073db870d96aab6f18e1a1c77f93986'; // You'll need to get a free API key from OpenWeatherMap
+        this.API_KEY = 'YOUR API KEY'; // You'll need to get a free API key from OpenWeatherMap
         this.currentUnit = 'celsius';
         this.currentWeatherData = null;
         
